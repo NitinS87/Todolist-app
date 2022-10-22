@@ -1,2 +1,2 @@
-# Todolist-app https://todolist-app-by-nitin.herokuapp.com/
+# Todolist-app
 This is my todolist app for tracking daily tasks.
